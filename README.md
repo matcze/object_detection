@@ -5,4 +5,4 @@ Step | File | Purpose
 4 | train.py | Train the model
 5 | utils/detection.py |Decode predictions and NMS
 6 | predict_image.py | Detect objects in images
-7 | predict_video.py | Detect objects in videos
+7 | predict_video.py | Detect objects in videos 
